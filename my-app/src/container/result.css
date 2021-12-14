@@ -1,0 +1,27 @@
+.resultPage {
+    font-size: 62px;
+    color: white;
+    font-weight: 600;
+     display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.back_button {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-size: 24px;
+}
+
+.back_button:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.main_title_container {
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    width: auto;
+    margin:auto;
+    padding: 20px;
+    width: 45vw;
+    border-radius: 20px;
+}
+
+.score {
+    margin-left: 12vw;
+    background-color: white;
+    padding: 10px 40px 5px 40px;
+    border-radius: 20px;
+    font-family: "Barlow", sans-serif;
+    color: #565468;
+}
+
+.score_number {
+    font-size: 56px;
+    font-weight: 600;
+}
+
+.score_title {
+    font-weight: 600;
+    font-size: 20px;
+}
